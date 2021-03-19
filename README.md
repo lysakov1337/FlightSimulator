@@ -7,7 +7,7 @@
 В дальнейшем планируется добавление различных уровней мини-игры, а также выбор разных моделей самолета со своими характеристиками.
 ## Как скачать?  
 Нужно перейти по ссылке ниже и скачать архив FlightSimulator:
-https://drive.google.com/drive/folders/1fnwWbOTcKDJ4JNubbyW53CQxz8LFzPpf - ссылка на скачивание игры.  
+https://drive.google.com/drive/folders/1IbBN5aPGrjFmiqp6VdMaUdxTYAZe0fIR - ссылка на скачивание игры.  
 ## Видео геймплея  
 https://www.youtube.com/watch?v=Q4wxEmz-zdQ&t=38s&ab_channel=%D0%98%D0%BB%D1%8C%D1%8F%D0%9B%D1%8B%D1%81%D0%B0%D0%BA%D0%BE%D0%B2
 ## Скриншоты игры
